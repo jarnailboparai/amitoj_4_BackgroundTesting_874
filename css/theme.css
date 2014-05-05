@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: radial-gradient(left bottom , circle cover , rgb(255, 0, 0) 52% , rgb(170, 0, 0) 73%);
-background: -o-radial-gradient(left bottom , circle cover , rgb(255, 0, 0) 52% , rgb(170, 0, 0) 73%);
-background: -ms-radial-gradient(left bottom , circle cover , rgb(255, 0, 0) 52% , rgb(170, 0, 0) 73%);
-background: -moz-radial-gradient(left bottom , circle cover , rgb(255, 0, 0) 52% , rgb(170, 0, 0) 73%);
-background: -webkit-radial-gradient(left bottom , circle cover , rgb(255, 0, 0) 52% , rgb(170, 0, 0) 73%);
+	background: radial-gradient(left bottom , circle cover , );
+background: -o-radial-gradient(left bottom , circle cover , );
+background: -ms-radial-gradient(left bottom , circle cover , );
+background: -moz-radial-gradient(left bottom , circle cover , );
+background: -webkit-radial-gradient(left bottom , circle cover , );
 }
 
 
